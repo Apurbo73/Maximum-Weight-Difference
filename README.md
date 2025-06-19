@@ -1,8 +1,6 @@
 ﻿# Maximum-Weight-Difference
 
-Sure! Here’s a clear explanation of the logic behind the code:
 
----
 
 ### 🧠 **Goal**:
 
