@@ -56,4 +56,3 @@ Sorted: `1 2 3 4 5`, Total = 15
 
 ---
 
-Let me know if you'd like a [visual walkthrough](f) or [trace on input](f).
