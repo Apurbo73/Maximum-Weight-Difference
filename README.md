@@ -1,4 +1,4 @@
-﻿# Maximum Weight Difference
+### Maximum Weight Difference:
 
 
 
